@@ -15,5 +15,5 @@
 
 ### 运行效果
 
-![running](images\running.gif)
+![img](https://github.com/nappingman/HariboteOS/blob/master/images/running.gif)
 
