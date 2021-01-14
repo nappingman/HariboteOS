@@ -15,7 +15,5 @@
 
 ### 运行效果
 
-![image-20210114150450126](C:\Users\79146\Desktop\PacMan\images\start.png)
-
-![running](C:\Users\79146\Desktop\PacMan\images\running.gif)
+![running](images\running.gif)
 
